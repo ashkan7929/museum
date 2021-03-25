@@ -1,0 +1,25 @@
+@font-face {
+	font-family: BPreplay;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../fonts/BPreplay.otf");
+}
+@font-face {
+	font-family: BPreplay;
+	font-style: italic;
+	font-weight: normal;
+	src: url("../fonts/BPreplayItalics.otf");
+}
+@font-face {
+	font-family: BPreplay;
+	font-style: normal;
+	font-weight: bold;
+	src: url("../fonts/BPreplayBold.otf");
+}
+@font-face {
+	font-family: BPreplay;
+	font-style: italic;
+	font-weight: bold;
+	src: url("../fonts/BPreplayBoldItalics.otf");
+}
+
